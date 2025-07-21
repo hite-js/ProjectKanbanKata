@@ -1,7 +1,8 @@
 ﻿using ProjectKanban.Controllers;
+using ProjectKanban.Helpers;
 using ProjectKanban.Tasks;
 
-namespace ProjectKanban.Helpers
+namespace ProjectKanban.Adapters
 {
     public static class UserAdapter
     {

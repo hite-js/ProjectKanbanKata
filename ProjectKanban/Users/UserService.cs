@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using ProjectKanban.Adapters;
 using ProjectKanban.Controllers;
-using ProjectKanban.Helpers;
 
 namespace ProjectKanban.Users
 {
